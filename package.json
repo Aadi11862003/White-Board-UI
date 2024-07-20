@@ -1,8 +1,9 @@
 {
-  "name": "npm",
-  "private": true,
-  "version": "0.0.0",
+  "name": "boardify-react",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
+  "description": "A whiteboard UI component for React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
